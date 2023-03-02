@@ -5,7 +5,7 @@ This is a project for predicting handwritten digits using a convolutional neural
 1. Clone the repository:
 
   ```sh
-  git clone https://github.com/Marcus270503/RAP-Hackathon
+  git clone https://github.com/Praveen-Rajan1808/RAP-HACKATHON
   ```
 2. Navigate to that Directory 
   ```sh
